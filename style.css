@@ -1,0 +1,13 @@
+.pepe{
+	color: purple;
+}
+.contenedor{
+	display: grid;
+	outline-color: red;
+}
+.primero{
+	grid-template-columns: 3em;
+}
+.segundo{
+	grid-template-columns: 4em;
+}
